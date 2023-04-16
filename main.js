@@ -292,3 +292,7 @@ si.addEventListener("click", () => {
 
     })
 })
+const reinciar = document.querySelector(".reiniciar");
+reinciar.addEventListener('click',()=>{
+    location.reload();
+})
