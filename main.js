@@ -10,14 +10,14 @@ si.addEventListener("click", () => {
         no.addEventListener("click", () => {
             pregunta.textContent = '¿es mujer?'
             no.addEventListener("click", () => {
-                pregunta.textContent = '';
+                pregunta.textContent = 'JUEGO FINALIZADO';
                 resultado.textContent = '';
                 resultado.textContent = 'ES IVO';
                  
                 buttom.removeEventListener;
             })
             si.addEventListener("click", () => {
-                pregunta.textContent = '';
+                pregunta.textContent = 'JUEGO FINALIZADO';
                 resultado.textContent = '';
                 resultado.textContent = 'ES AMBAR';
                  
@@ -34,14 +34,14 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = '¿tiene hijos?'
                         no.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = '';
                             resultado.textContent = 'ES EDUARDO';
                              
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = '';
                             resultado.textContent = 'ES GONZI';
                              
@@ -49,7 +49,7 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = '';
                         resultado.textContent = 'ES NARE';
                          
@@ -58,7 +58,7 @@ si.addEventListener("click", () => {
                     })
                 })
                 si.addEventListener("click", () => {
-                    pregunta.textContent = '';
+                    pregunta.textContent = 'JUEGO FINALIZADO';
                     resultado.textContent = '';
                     resultado.textContent = 'ES ADRIAN';
                      
@@ -70,13 +70,13 @@ si.addEventListener("click", () => {
                 no.addEventListener("click", () => {
                     pregunta.textContent = '¿es el mayor de los hermanos?'
                     no.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES GENARO';
                          
                         buttom.removeEventListener;
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES BENJA';
                          
                         buttom.removeEventListener;
@@ -86,13 +86,13 @@ si.addEventListener("click", () => {
                 si.addEventListener("click", () => {
                     pregunta.textContent = '¿es mujer?';
                     no.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES FRANCO';
                          
                         buttom.removeEventListener;
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES MELI';
                          
                         buttom.removeEventListener;
@@ -116,13 +116,13 @@ si.addEventListener("click", () => {
                     resultado.textContent = '';
                     si.addEventListener("click", () => {
                         pregunta.textContent = '';
-                        resultado.textContent = '';
+                        resultado.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES GERO';
                          
                         buttom.removeEventListener;
                     })
                     no.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = '';
                         resultado.textContent = 'ES YARI';
                          
@@ -130,7 +130,7 @@ si.addEventListener("click", () => {
                     })
                 })
                 si.addEventListener("click", () => {
-                    pregunta.textContent = '';
+                    pregunta.textContent = 'JUEGO FINALIZADO';
                     resultado.textContent = '';
                     resultado.textContent = 'ES MATEO';
                      
@@ -142,7 +142,7 @@ si.addEventListener("click", () => {
                 pregunta.textContent = '¿es de la familia radulovich?';
                 resultado.textContent = '';
                 no.addEventListener("click", () => {
-                    pregunta.textContent = '';
+                    pregunta.textContent = 'JUEGO FINALIZADO';
                     resultado.textContent = 'ES JOAQUINA';
                      
                     buttom.removeEventListener;
@@ -151,13 +151,13 @@ si.addEventListener("click", () => {
                     pregunta.textContent = '¿es travieza?';
                     resultado.textContent = '';
                     no.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES INTI';
                          
                         buttom.removeEventListener;
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES PIERI';
                          
                         buttom.removeEventListener;
@@ -179,13 +179,13 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = '¿trabaja en el jardin?';
                         no.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES JIME';
                              
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES MARI';
                              
                             buttom.removeEventListener;
@@ -193,7 +193,7 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES BAUTI';
                          
                         buttom.removeEventListener;
@@ -203,13 +203,13 @@ si.addEventListener("click", () => {
                     pregunta.textContent = '¿es mujer?';
                     resultado.textContent = '';
                     no.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES IVAN RADIMAK';
                          
                         buttom.removeEventListener;
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES GERI';
                          
                         buttom.removeEventListener;
@@ -228,20 +228,20 @@ si.addEventListener("click", () => {
                         pregunta.textContent = '¿es de la familia benitendi?'
                         resultado.textContent = '';
                         no.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES TEBO';
                              
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES DIEGO';
                              
                             buttom.removeEventListener;
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES IVAN RADULO';
                          
                         buttom.removeEventListener;
@@ -255,7 +255,7 @@ si.addEventListener("click", () => {
                         resultado.textContent = '';
 
                         no.addEventListener("click", () => {
-                            pregunta.textContent = '';
+                            pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES LA ABUELA MARIA';
                              
                             buttom.removeEventListener;
@@ -264,13 +264,13 @@ si.addEventListener("click", () => {
                             pregunta.textContent = '¿es de la familia benitendi?';
                             resultado.textContent = '';
                             no.addEventListener("click", () => {
-                                pregunta.textContent = '';
+                                pregunta.textContent = 'JUEGO FINALIZADO';
                                 resultado.textContent = 'ES SILVANA';
                                  
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = '';
+                                pregunta.textContent = 'JUEGO FINALIZADO';
                                 resultado.textContent = 'ES GEORGINA';
                                  
                                 buttom.removeEventListener;
@@ -279,7 +279,7 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
+                        pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES LORENA';
                          
                         buttom.removeEventListener;
