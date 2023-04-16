@@ -13,15 +13,153 @@ si.addEventListener("click", () => {
                 pregunta.textContent = 'JUEGO FINALIZADO';
                 resultado.textContent = '';
                 resultado.textContent = 'ES IVO';
-                 
                 buttom.removeEventListener;
+                no.addEventListener("click", () => {
+                    pregunta.textContent = 'JUEGO FINALIZADO';
+                    resultado.textContent = 'ES IVO';
+                    buttom.removeEventListener;
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES IVO';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES IVO';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                    })
+                })
+                si.addEventListener("click", () => {
+                    pregunta.textContent = 'JUEGO FINALIZADO';
+                    resultado.textContent = 'ES IVO';
+                    buttom.removeEventListener;
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES IVO';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES IVO';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVO';
+                            buttom.removeEventListener;
+                        })
+                    })
+                })
             })
             si.addEventListener("click", () => {
                 pregunta.textContent = 'JUEGO FINALIZADO';
                 resultado.textContent = '';
                 resultado.textContent = 'ES AMBAR';
-                 
                 buttom.removeEventListener;
+                no.addEventListener("click", () => {
+                    pregunta.textContent = 'JUEGO FINALIZADO';
+                    resultado.textContent = 'ES AMBAR';
+                    buttom.removeEventListener;
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES AMBAR';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES AMBAR';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                    })
+                })
+                si.addEventListener("click", () => {
+                    pregunta.textContent = 'JUEGO FINALIZADO';
+                    resultado.textContent = 'ES AMBAR';
+                    buttom.removeEventListener;
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES AMBAR';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES AMBAR';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES AMBAR';
+                            buttom.removeEventListener;
+                        })
+                    })
+                })
             })
         })
         si.addEventListener("click", () => {
@@ -33,27 +171,234 @@ si.addEventListener("click", () => {
                     resultado.textContent = '';
                     no.addEventListener("click", () => {
                         pregunta.textContent = '¿tiene hijos?'
-                        no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = '';
-                            resultado.textContent = 'ES EDUARDO';
-                             
-                            buttom.removeEventListener;
-                        })
                         si.addEventListener("click", () => {
                             pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = '';
-                            resultado.textContent = 'ES GONZI';
-                             
+                            resultado.textContent = 'ES EDUARDO';
                             buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES EDUARDO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES EDUARDO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES EDUARDO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES EDUARDO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES EDUARDO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES EDUARDO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES EDUARDO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                        })
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = '';
+                            resultado.textContent = 'ES GONZI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GONZI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GONZI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GONZI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GONZI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GONZI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GONZI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GONZI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
                         })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = '';
                         resultado.textContent = 'ES NARE';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES NARE';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES NARE';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES NARE';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES NARE';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES NARE';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES NARE';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES NARE';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
 
                     })
                 })
@@ -61,8 +406,77 @@ si.addEventListener("click", () => {
                     pregunta.textContent = 'JUEGO FINALIZADO';
                     resultado.textContent = '';
                     resultado.textContent = 'ES ADRIAN';
-                     
                     buttom.removeEventListener;
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES ADRIAN';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES ADRIAN';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES ADRIAN';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES ADRIAN';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES ADRIAN';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES ADRIAN';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES ADRIAN';
+                                buttom.removeEventListener;
+                            })
+                        })
+                    })
                 })
             })
             si.addEventListener("click", () => {
@@ -72,14 +486,152 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES GENARO';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES GENARO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GENARO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GENARO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES GENARO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GENARO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GENARO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GENARO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES BENJA';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES BENJA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BENJA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BENJA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES BENJA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BENJA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BENJA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BENJA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
 
                     })
                 })
@@ -88,14 +640,152 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES FRANCO';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES FRANCO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES FRANCO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES FRANCO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES FRANCO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES FRANCO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES FRANCO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES FRANCO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES MELI';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES MELI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MELI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MELI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES MELI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MELI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MELI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MELI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
 
                 })
@@ -118,24 +808,230 @@ si.addEventListener("click", () => {
                         pregunta.textContent = '';
                         resultado.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES GERO';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES GERO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES GERO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                     no.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = '';
                         resultado.textContent = 'ES YARI';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES YARI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES YARI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES YARI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES YARI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES YARI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES YARI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES YARI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                 })
                 si.addEventListener("click", () => {
                     pregunta.textContent = 'JUEGO FINALIZADO';
                     resultado.textContent = '';
                     resultado.textContent = 'ES MATEO';
-                     
                     buttom.removeEventListener;
-
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES MATEO';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES MATEO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES MATEO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES MATEO';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES MATEO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES MATEO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MATEO';
+                                buttom.removeEventListener;
+                            })
+                        })
+                    })
                 })
             })
             si.addEventListener("click", () => {
@@ -144,8 +1040,77 @@ si.addEventListener("click", () => {
                 no.addEventListener("click", () => {
                     pregunta.textContent = 'JUEGO FINALIZADO';
                     resultado.textContent = 'ES JOAQUINA';
-                     
                     buttom.removeEventListener;
+                    no.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES JOAQUINA';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES JOAQUINA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES JOAQUINA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                        })
+                    })
+                    si.addEventListener("click", () => {
+                        pregunta.textContent = 'JUEGO FINALIZADO';
+                        resultado.textContent = 'ES JOAQUINA';
+                        buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES JOAQUINA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES JOAQUINA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JOAQUINA';
+                                buttom.removeEventListener;
+                            })
+                        })
+                    })
                 })
                 si.addEventListener("click", () => {
                     pregunta.textContent = '¿es travieza?';
@@ -153,15 +1118,152 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES INTI';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES INTI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES INTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES INTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES INTI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES INTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES INTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES INTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES PIERI';
-                         
                         buttom.removeEventListener;
-
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES PIERI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES PIERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES PIERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES PIERI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES PIERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES PIERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES PIERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
 
                 })
@@ -181,22 +1283,229 @@ si.addEventListener("click", () => {
                         no.addEventListener("click", () => {
                             pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES JIME';
-                             
                             buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JIME';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES JIME';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES JIME';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES JIME';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES JIME';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES JIME';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES JIME';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
                         })
                         si.addEventListener("click", () => {
                             pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES MARI';
-                             
                             buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MARI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MARI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MARI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES MARI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MARI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES MARI';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES MARI';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
 
                         })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES BAUTI';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES BAUTI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BAUTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BAUTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BAUTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BAUTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BAUTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES BAUTI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BAUTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BAUTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES BAUTI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BAUTI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES BAUTI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                 })
                 si.addEventListener("click", () => {
@@ -205,14 +1514,152 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES IVAN RADIMAK';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVAN RADIMAK';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADIMAK';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADIMAK';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVAN RADIMAK';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADIMAK';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADIMAK';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES GERI';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES GERI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES GERI';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES GERI';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GERI';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
 
                     })
 
@@ -230,21 +1677,228 @@ si.addEventListener("click", () => {
                         no.addEventListener("click", () => {
                             pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES TEBO';
-                             
                             buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES TEBO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES TEBO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES TEBO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES TEBO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES TEBO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES TEBO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES TEBO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
                         })
                         si.addEventListener("click", () => {
                             pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES DIEGO';
-                             
                             buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES DIEGO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES DIEGO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES DIEGO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES DIEGO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES DIEGO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES DIEGO';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES DIEGO';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
                         })
                     })
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES IVAN RADULO';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVAN RADULO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADULO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADULO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES IVAN RADULO';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADULO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES IVAN RADULO';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES IVAN RADULO';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
                 })
                 si.addEventListener("click", () => {
@@ -257,23 +1911,229 @@ si.addEventListener("click", () => {
                         no.addEventListener("click", () => {
                             pregunta.textContent = 'JUEGO FINALIZADO';
                             resultado.textContent = 'ES LA ABUELA MARIA';
-                             
                             buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES LA ABUELA MARIA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES LA ABUELA MARIA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        buttom.removeEventListener;
+                                    })
+                                })
+                            })
                         })
                         si.addEventListener("click", () => {
                             pregunta.textContent = '¿es de la familia benitendi?';
                             resultado.textContent = '';
+                            buttom.removeEventListener;
                             no.addEventListener("click", () => {
                                 pregunta.textContent = 'JUEGO FINALIZADO';
                                 resultado.textContent = 'ES SILVANA';
-                                 
-                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES SILVANA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES SILVANA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES SILVANA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES SILVANA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES SILVANA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES LORENA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES SILVANA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES SILVANA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                })
                             })
                             si.addEventListener("click", () => {
                                 pregunta.textContent = 'JUEGO FINALIZADO';
                                 resultado.textContent = 'ES GEORGINA';
-                                 
-                                buttom.removeEventListener;
+                                    buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GEORGINA';
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GEORGINA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GEORGINA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES GEORGINA';
+                                    buttom.removeEventListener;
+                                    no.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GEORGINA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                    si.addEventListener("click", () => {
+                                        pregunta.textContent = 'JUEGO FINALIZADO';
+                                        resultado.textContent = 'ES GEORGINA';
+                                        buttom.removeEventListener;
+                                        no.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                        si.addEventListener("click", () => {
+                                            pregunta.textContent = 'JUEGO FINALIZADO';
+                                            resultado.textContent = 'ES GEORGINA';
+                                            buttom.removeEventListener;
+                                        })
+                                    })
+                                })
                             })
 
                         })
@@ -281,8 +2141,77 @@ si.addEventListener("click", () => {
                     si.addEventListener("click", () => {
                         pregunta.textContent = 'JUEGO FINALIZADO';
                         resultado.textContent = 'ES LORENA';
-                         
                         buttom.removeEventListener;
+                        no.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES LORENA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES LORENA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES LORENA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
+                        si.addEventListener("click", () => {
+                            pregunta.textContent = 'JUEGO FINALIZADO';
+                            resultado.textContent = 'ES LORENA';
+                            buttom.removeEventListener;
+                            no.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES LORENA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                            si.addEventListener("click", () => {
+                                pregunta.textContent = 'JUEGO FINALIZADO';
+                                resultado.textContent = 'ES LORENA';
+                                buttom.removeEventListener;
+                                no.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                                si.addEventListener("click", () => {
+                                    pregunta.textContent = 'JUEGO FINALIZADO';
+                                    resultado.textContent = 'ES LORENA';
+                                    buttom.removeEventListener;
+                                })
+                            })
+                        })
                     })
 
                 })
