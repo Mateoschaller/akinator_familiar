@@ -1,0 +1,82 @@
+*{
+    padding: 0em;
+    margin: 0em;
+}
+body{
+    padding: 0em;
+    height: 100%;
+    width: 100%;
+    overflow:hidden;
+position:absolute;
+    margin: 0em;
+    background: rgb(10, 4, 29);
+}
+.main{
+    background: rgb(32, 32, 96);
+    padding: 1.5em;
+    margin:0 auto;
+}
+.princ{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 70%;
+    height: 70%;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 2.23em ;
+    color: var(--blanco);
+    text-align: center;
+    padding: 0.2em;
+    margin-bottom: 0.1em;
+}
+.mentions{
+    display: flex;
+    justify-content: center;
+    font-size: 0.8em ;
+    color: var(--blanco);
+    text-align: center;
+    padding: 0.2em;
+    margin-bottom: 1em;
+}
+.resp{
+    text-align: center;
+    color: var(--blanco);
+    font-size: 1.3em;
+    margin-bottom: 2em;
+}
+.resq{
+    display: flex;
+    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+}
+.options{
+    margin: 0.5em;
+}
+.but{
+    padding: 0.3em;
+    color: var(--blanco);
+    background:  rgb(71, 71, 210);
+    border: 0.1em solid rgb(0, 0, 0);
+}
+.resultado{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+:root{
+    --blanco:rgb(247, 247, 247);
+}
