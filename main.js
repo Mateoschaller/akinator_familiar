@@ -3,6 +3,7 @@ const no = document.getElementById('no');
 const pregunta = document.getElementById('pregunta')
 const resultado = document.querySelector('.title2');
 const botones = document.querySelector('.resq');
+const buttom = document.querySelector('.but')
 si.addEventListener("click", () => {
     pregunta.textContent = '¿vive en villa?';
     no.addEventListener("click", () => {
@@ -10,152 +11,119 @@ si.addEventListener("click", () => {
         no.addEventListener("click", () => {
             pregunta.textContent = '¿es mujer?'
             no.addEventListener("click", () => {
-                pregunta.textContent = 'JUEGO FINALIZADO';
-                resultado.textContent = '';
-                resultado.textContent = 'ES IVO';
+                pregunta.textContent = '¿es de la familia radulovich?';
                 buttom.removeEventListener;
                 no.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = 'ES IVO';
+                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES IVO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                             buttom.removeEventListener;
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES IVO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PABLO';
                             buttom.removeEventListener;
                         })
                     })
                 })
                 si.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = 'ES IVO';
+                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES IVO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';
                             buttom.removeEventListener;
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES IVO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';;
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVO';
                             buttom.removeEventListener;
                         })
                     })
                 })
             })
             si.addEventListener("click", () => {
-                pregunta.textContent = 'JUEGO FINALIZADO';
-                resultado.textContent = '';
-                resultado.textContent = 'ES AMBAR';
+                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                 buttom.removeEventListener;
                 no.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = 'ES AMBAR';
+                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES AMBAR';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES AMBAR';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                     })
                 })
-                si.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = 'ES AMBAR';
+                si.addEventListener("click", () => {pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES AMBAR';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES AMBAR';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES AMBAR';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA AMBAR';
                             buttom.removeEventListener;
                         })
                     })
@@ -172,152 +140,120 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = '¿tiene hijos?'
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = '';
-                            resultado.textContent = 'ES EDUARDO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES EDUARDO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES EDUARDO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES EDUARDO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES EDUARDO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES EDUARDO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES EDUARDO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES EDUARDO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA EDUARDO';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                         })
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = '';
-                            resultado.textContent = 'ES GONZI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GONZI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GONZI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GONZI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GONZI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GONZI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GONZI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GONZI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GONZI';
                                         buttom.removeEventListener;
                                     })
                                 })
@@ -325,76 +261,60 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = '';
-                        resultado.textContent = 'ES NARE';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES NARE';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES NARE';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES NARE';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES NARE';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES NARE';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES NARE';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES NARE';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NARE';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -403,76 +323,60 @@ si.addEventListener("click", () => {
                     })
                 })
                 si.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = '';
-                    resultado.textContent = 'ES ADRIAN';
+                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES ADRIAN';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES ADRIAN';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES ADRIAN';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES ADRIAN';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES ADRIAN';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES ADRIAN';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES ADRIAN';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA ADRIAN';
                                 buttom.removeEventListener;
                             })
                         })
@@ -484,150 +388,120 @@ si.addEventListener("click", () => {
                 no.addEventListener("click", () => {
                     pregunta.textContent = '¿es el mayor de los hermanos?'
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES GENARO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES GENARO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GENARO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GENARO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES GENARO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GENARO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GENARO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GENARO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GENARO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES BENJA';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES BENJA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BENJA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BENJA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES BENJA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BENJA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BENJA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BENJA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BENJA';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -638,150 +512,120 @@ si.addEventListener("click", () => {
                 si.addEventListener("click", () => {
                     pregunta.textContent = '¿es mujer?';
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES FRANCO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES FRANCO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES FRANCO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES FRANCO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES FRANCO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES FRANCO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES FRANCO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES FRANCO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA FRANCO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES MELI';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MELI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MELI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MELI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MELI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MELI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MELI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MELI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MELI';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -805,152 +649,120 @@ si.addEventListener("click", () => {
                     pregunta.textContent = '¿es de la familia benitendi?'
                     resultado.textContent = '';
                     si.addEventListener("click", () => {
-                        pregunta.textContent = '';
-                        resultado.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES GERO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES GERO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES GERO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                     })
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = '';
-                        resultado.textContent = 'ES YARI';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES YARI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES YARI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES YARI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES YARI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES YARI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES YARI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES YARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA YARI';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -958,76 +770,60 @@ si.addEventListener("click", () => {
                     })
                 })
                 si.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = '';
-                    resultado.textContent = 'ES MATEO';
+                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES MATEO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MATEO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MATEO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES MATEO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MATEO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MATEO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MATEO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MATEO';
                                 buttom.removeEventListener;
                             })
                         })
@@ -1038,75 +834,60 @@ si.addEventListener("click", () => {
                 pregunta.textContent = '¿es de la familia radulovich?';
                 resultado.textContent = '';
                 no.addEventListener("click", () => {
-                    pregunta.textContent = 'JUEGO FINALIZADO';
-                    resultado.textContent = 'ES JOAQUINA';
+                    pregunta.textContent = '¿es mayor de edad?';
                     buttom.removeEventListener;
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES JOAQUINA';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES JOAQUINA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                                 buttom.removeEventListener;
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES JOAQUINA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JOAQUINA';
                                 buttom.removeEventListener;
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES JOAQUINA';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES JOAQUINA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                                 buttom.removeEventListener;
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES JOAQUINA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                                 buttom.removeEventListener;
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JOAQUINA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA NERI';
                                 buttom.removeEventListener;
                             })
                         })
@@ -1116,150 +897,120 @@ si.addEventListener("click", () => {
                     pregunta.textContent = '¿es travieza?';
                     resultado.textContent = '';
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES INTI';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES INTI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES INTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES INTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES INTI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES INTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES INTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES INTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA INTI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES PIERI';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES PIERI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES PIERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES PIERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES PIERI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES PIERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES PIERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES PIERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA PIERI';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -1281,150 +1032,120 @@ si.addEventListener("click", () => {
                     no.addEventListener("click", () => {
                         pregunta.textContent = '¿trabaja en el jardin?';
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES JIME';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JIME';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES JIME';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES JIME';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES JIME';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES JIME';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES JIME';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES JIME';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA JIME';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES MARI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MARI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES MARI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES MARI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES MARI';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA MARI';
                                         buttom.removeEventListener;
                                     })
                                 })
@@ -1433,75 +1154,60 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES BAUTI';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES BAUTI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BAUTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BAUTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BAUTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BAUTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BAUTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES BAUTI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BAUTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BAUTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES BAUTI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BAUTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES BAUTI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA BAUTI';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -1512,150 +1218,120 @@ si.addEventListener("click", () => {
                     pregunta.textContent = '¿es mujer?';
                     resultado.textContent = '';
                     no.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES IVAN RADIMAK';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVAN RADIMAK';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADIMAK';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADIMAK';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVAN RADIMAK';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADIMAK';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADIMAK';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADIMAK';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADIMAK';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES GERI';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES GERI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES GERI';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GERI';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GERI';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GERI';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -1675,150 +1351,120 @@ si.addEventListener("click", () => {
                         pregunta.textContent = '¿es de la familia benitendi?'
                         resultado.textContent = '';
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES TEBO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES TEBO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES TEBO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES TEBO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES TEBO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES TEBO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES TEBO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES TEBO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA TEBO';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES DIEGO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES DIEGO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES DIEGO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES DIEGO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES DIEGO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES DIEGO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES DIEGO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES DIEGO';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA DIEGO';
                                         buttom.removeEventListener;
                                     })
                                 })
@@ -1826,75 +1472,60 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES IVAN RADULO';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVAN RADULO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADULO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADULO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES IVAN RADULO';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADULO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES IVAN RADULO';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES IVAN RADULO';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA IVAN RADULO';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -1909,75 +1540,60 @@ si.addEventListener("click", () => {
                         resultado.textContent = '';
 
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES LA ABUELA MARIA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES LA ABUELA MARIA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES LA ABUELA MARIA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LA ABUELA MARIA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';
                                         buttom.removeEventListener;
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES LA ABUELA MARIA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LA ABUELA MARIA';;
                                         buttom.removeEventListener;
                                     })
                                 })
@@ -1988,148 +1604,118 @@ si.addEventListener("click", () => {
                             resultado.textContent = '';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES SILVANA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES SILVANA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES SILVANA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES SILVANA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES SILVANA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES SILVANA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES LORENA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES SILVANA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES SILVANA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA SILVANA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES GEORGINA';
-                                    buttom.removeEventListener;
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
+                                buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GEORGINA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GEORGINA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GEORGINA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES GEORGINA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                     buttom.removeEventListener;
                                     no.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GEORGINA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                     })
                                     si.addEventListener("click", () => {
-                                        pregunta.textContent = 'JUEGO FINALIZADO';
-                                        resultado.textContent = 'ES GEORGINA';
+                                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                         buttom.removeEventListener;
                                         no.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                         si.addEventListener("click", () => {
-                                            pregunta.textContent = 'JUEGO FINALIZADO';
-                                            resultado.textContent = 'ES GEORGINA';
+                                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA GEORGINA';
                                             buttom.removeEventListener;
                                         })
                                     })
@@ -2139,75 +1725,60 @@ si.addEventListener("click", () => {
                         })
                     })
                     si.addEventListener("click", () => {
-                        pregunta.textContent = 'JUEGO FINALIZADO';
-                        resultado.textContent = 'ES LORENA';
+                        pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                         buttom.removeEventListener;
                         no.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES LORENA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES LORENA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES LORENA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                             })
                         })
                         si.addEventListener("click", () => {
-                            pregunta.textContent = 'JUEGO FINALIZADO';
-                            resultado.textContent = 'ES LORENA';
+                            pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                             buttom.removeEventListener;
                             no.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES LORENA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                             })
                             si.addEventListener("click", () => {
-                                pregunta.textContent = 'JUEGO FINALIZADO';
-                                resultado.textContent = 'ES LORENA';
+                                pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                 buttom.removeEventListener;
                                 no.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                                 si.addEventListener("click", () => {
-                                    pregunta.textContent = 'JUEGO FINALIZADO';
-                                    resultado.textContent = 'ES LORENA';
+                                    pregunta.textContent = 'JUEGO FINALIZADO LA PERSONA QUE ESTABAS PENSANDO ERA LORENA';
                                     buttom.removeEventListener;
                                 })
                             })
@@ -2222,6 +1793,6 @@ si.addEventListener("click", () => {
     })
 })
 const reinciar = document.querySelector(".reiniciar");
-reinciar.addEventListener('click',()=>{
+reinciar.addEventListener('click', () => {
     location.reload();
 })

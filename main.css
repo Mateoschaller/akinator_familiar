@@ -71,6 +71,7 @@ position:absolute;
     display: flex;
     justify-content: center;
     width: 50%;
+    font-size: 0.9em;
     margin-top: 0.5em;
     margin-right: 0.5em;
     text-align: center;
